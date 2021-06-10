@@ -2,5 +2,4 @@
 This is my Lo07 td.
 
 ***
-all the 
 
