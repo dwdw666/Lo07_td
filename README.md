@@ -1,2 +1,2 @@
 # Lo07_td
-This is my Lo07 td exercise.
+This is my Lo07 td.
