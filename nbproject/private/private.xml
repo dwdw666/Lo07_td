@@ -13,47 +13,76 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/model/Model.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e3_cookie1.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp05/lo07_biblio_formulaire_bt.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/model/ModelVin.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/vin/viewDeleted.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp04/%20tp04_inscription_get_form_analyse.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewId.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp05/tp05_tournoi_form2.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp01/tp01.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/fragment/fragmentCaveHeader.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/viewCaveAccueil.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/fragmentJumbotron.html</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/fragmentVinResultats.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e4_session.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewAll.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/viewCaveAccueil.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/fragment/fragmentCaveJumbotron.html</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/model/ModelVin.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/controller/ControllerVin.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewInsert.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewId.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/tp10.css</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/page_vin_selection_annee_form.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewId.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/ControllerCave.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/fragment/fragmentCaveMenu.html</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/fragment/fragmentCaveHeader.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/router/router1.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/model/ModelRecolte.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/cursus_main.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/Recolte/viewInsert.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewAll.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/Charte.class.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/fragment/fragmentCaveMenu.html</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/fragmentFooter.html</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/ControllerProducteur.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e2_hidden%20page2.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/cursus_action1.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/controller/ControllerRecolte.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e2_hidden_page1.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp08/tp08_devisi_vins.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/config.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/index.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/lo07_biblio_formulaire_bt.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/WebBean.interface.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp10/fragmenHeader.html</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp01/tp01_css.css</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/vin/viewInsert.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewSum.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/lo07_analyse_superglobales.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e3_cookie2.php</file>
-            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/Cursus.class.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/ControllerVin.php</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/cursus_form1.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/model/ModelProducteur.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/index.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/fragment/fragmentCaveFooter.html</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/Recolte/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp06/tp06_e3_cookie1.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewDeleted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp05/lo07_biblio_formulaire_bt.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/controller/ControllerCave.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp05/tp05_tournoi_form2.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewSum.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/vin/viewId.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/vin/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/model/ModelProducteur.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/Recolte/viewAll.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewInsert.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/producteur/viewAll.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/model/ModelVin.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/fragment/fragmentCaveJumbotron.html</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewInserted.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewId.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/router/router2.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/vin/viewAll.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/controller/config.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/Charte.class.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/ControllerProducteur.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/cursus_action1.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/controller/ControllerProducteur.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/controller/config.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp12/cours_mvc_devisi/app/view/producteur/viewAll.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp01/tp01_css.css</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/vin/viewInsert.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp09/Cursus.class.php</file>
+            <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp11_mvc1/cours_mvc_devisi/app/view/fragment/fragmentCaveFooter.html</file>
             <file>file:/D:/学习/utt/Lo07/Lo07_tp/tp04/tp04.css</file>
         </group>
     </open-files>
